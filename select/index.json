@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "WORLD'S END",
+  "base_artist": "GLAY",
+  "createdAt": "2026-01-02T03:07:05.840915Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "world's end, girl's rondo",
+      "artist": "Kanon Wakeshima",
+      "has_synced": true,
+      "path": "select/01_world's_end,_girl's_rondo_Kanon_Wakeshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World's End Dancehall",
+      "artist": "wowaka feat. Hatsune Miku",
+      "has_synced": false,
+      "path": "select/02_World's_End_Dancehall_wowaka_feat._Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World's End Umbrella",
+      "artist": "Hachi",
+      "has_synced": false,
+      "path": "select/03_World's_End_Umbrella_Hachi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "World's End",
+      "artist": "Day One",
+      "has_synced": true,
+      "path": "select/04_World's_End_Day_One.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "world's end, girl's rondo",
+      "artist": "Kanon Wakeshima",
+      "has_synced": true,
+      "path": "select/05_world's_end,_girl's_rondo_Kanon_Wakeshima.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "world's end, girl's rondo",
+      "artist": "分島花音",
+      "has_synced": true,
+      "path": "select/06_world's_end,_girl's_rondo_分島花音.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "[It's not] World's end",
+      "artist": "ナノウ",
+      "has_synced": false,
+      "path": "select/07_[It's_not]_World's_end_ナノウ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WORLD'S END UMBRELLA -Game Version-",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/08_WORLD'S_END_UMBRELLA_-Game_Version-_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WORLD’S END UMBRELLA (Game Version)",
+      "artist": "hachi",
+      "has_synced": true,
+      "path": "select/09_WORLD’S_END_UMBRELLA_(Game_Version)_hachi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "World's End Dancehall",
+      "artist": "wowaka",
+      "has_synced": false,
+      "path": "select/10_World's_End_Dancehall_wowaka.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "World's End",
+      "artist": "ILLUMISHADE",
+      "has_synced": true,
+      "path": "select/11_World's_End_ILLUMISHADE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "WORLD'S END UMBRELLA (English Cover)",
+      "artist": "Raichie",
+      "has_synced": false,
+      "path": "select/12_WORLD'S_END_UMBRELLA_(English_Cover)_Raichie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Worlds End In Whispers, Not Bangs",
+      "artist": "A Skylit Drive",
+      "has_synced": true,
+      "path": "select/13_Worlds_End_In_Whispers,_Not_Bangs_A_Skylit_Drive.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Worlds End",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/14_Worlds_End_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Worlds end",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/15_Worlds_end_Mr.Children.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "World's End",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_World's_End_GLAY.txt"
+    }
+  ]
+}
